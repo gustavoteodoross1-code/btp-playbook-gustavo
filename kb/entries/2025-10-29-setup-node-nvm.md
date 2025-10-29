@@ -1,3 +1,5 @@
+# 2025-10-29 – Setup Node/nvm (Fase 1)
+
 
 ```yaml
 session:
@@ -17,5 +19,4 @@ session:
     mitigation: "Verificar ~/.zshrc e rodar source ~/.zshrc"
   tags: [fase-1, setup, nvm, node, cap, btp]
 
-```EOF
 ```
